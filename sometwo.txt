@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- two
-=======
-changethree
->>>>>>> 9218bb2a822ab2129c61562ba20566cf06db313a
-=======
-
->>>>>>> d8a8ea15538ceb901489802fe53cc52234a97a35
+changetwo
